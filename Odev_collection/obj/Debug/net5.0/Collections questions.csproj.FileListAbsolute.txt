@@ -1,0 +1,16 @@
+C:\Users\SEFA$$\source\repos\Collections questions\bin\Debug\net5.0\Collections questions.exe
+C:\Users\SEFA$$\source\repos\Collections questions\bin\Debug\net5.0\Collections questions.deps.json
+C:\Users\SEFA$$\source\repos\Collections questions\bin\Debug\net5.0\Collections questions.runtimeconfig.json
+C:\Users\SEFA$$\source\repos\Collections questions\bin\Debug\net5.0\Collections questions.runtimeconfig.dev.json
+C:\Users\SEFA$$\source\repos\Collections questions\bin\Debug\net5.0\Collections questions.dll
+C:\Users\SEFA$$\source\repos\Collections questions\bin\Debug\net5.0\ref\Collections questions.dll
+C:\Users\SEFA$$\source\repos\Collections questions\bin\Debug\net5.0\Collections questions.pdb
+C:\Users\SEFA$$\source\repos\Collections questions\obj\Debug\net5.0\Collections questions.csproj.AssemblyReference.cache
+C:\Users\SEFA$$\source\repos\Collections questions\obj\Debug\net5.0\Collections questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEFA$$\source\repos\Collections questions\obj\Debug\net5.0\Collections questions.AssemblyInfoInputs.cache
+C:\Users\SEFA$$\source\repos\Collections questions\obj\Debug\net5.0\Collections questions.AssemblyInfo.cs
+C:\Users\SEFA$$\source\repos\Collections questions\obj\Debug\net5.0\Collections questions.csproj.CoreCompileInputs.cache
+C:\Users\SEFA$$\source\repos\Collections questions\obj\Debug\net5.0\Collections questions.dll
+C:\Users\SEFA$$\source\repos\Collections questions\obj\Debug\net5.0\ref\Collections questions.dll
+C:\Users\SEFA$$\source\repos\Collections questions\obj\Debug\net5.0\Collections questions.pdb
+C:\Users\SEFA$$\source\repos\Collections questions\obj\Debug\net5.0\Collections questions.genruntimeconfig.cache
